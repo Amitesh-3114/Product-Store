@@ -2,7 +2,7 @@
 
 A full-stack **MERN** (MongoDB, Express, React, Node.js) application for managing a product catalog. Add, view, update, and delete products through a clean, responsive UI built with **Chakra UI** and powered by an **Express + MongoDB** REST API.
 
-🔗 **Live Demo:** [https://your-vercel-app.vercel.app](https://your-vercel-app.vercel.app) <!-- replace with your actual Vercel URL -->
+🔗 **Live Demo:** [https://your-vercel-app.vercel.app](https://product-store-4tne.onrender.com)
 
 ---
 
@@ -131,7 +131,7 @@ npm start       # serves the built frontend via Express
 ## ☁️ Deployment (Vercel)
 
 This project is deployed on [Vercel](https://vercel.com). 
-link: [product-store](https://product-store-4tne.onrender.com).
+
 When configuring the project on Vercel:
 
 | Setting | Value |
